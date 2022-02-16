@@ -21,7 +21,7 @@ La corde est tressé autour d'une barre en acier verticale afin qu'elle puisse s
 Corde, acier, composantes électroniques, moteur, plateforme Arduino, language de programmation Wiring
 
 (Source: Cartel d'exposition au BIAN)
-![cartelinfo](media/cartelinfo.png)
+![cartelinfo](images/cartelinfo.png)
 
 ## Expérience vécue:
 -Description de votre expérien ce de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
