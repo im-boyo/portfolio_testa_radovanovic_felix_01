@@ -23,11 +23,10 @@ Corde, acier, composantes électroniques, moteur, plateforme Arduino, language d
 ![cartelinfo](images/cartelinfo.png)
 
 ## Expérience vécue:
--Description de votre expérien ce de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+J'ai choisi cette oeuvre a cause de mon expérience. En effet, une fois qu'on m'a expliqué l'histoire derrière cette oeuvre, mon coeur s'est serré. Sachant que, théoriquement, chaque fois la corde bascule, une personne est victime d'un coup de feu. Cela m'aidait à voir jusqu'à quel point le monde est dangereux, et je ne pouvais pas éviter l'oeuvre du regard pendant notre visite.
 
--Ce qui vous à plu, vous a donné des idées et justifications
-
--Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+J'ai plus aimé le message derrière l'installation. Avoir un impact sur quelqu'un comme moi qui, d'habitude, n'est pas si intéressé par des oeuvres au musée. C'est la simplicité mais l'efficacité de l'oeuvre qui m'a attiré. Ce n'était pas trop abstrait.
+Je n'ai honnêtement rien à changer sur _Bascule_. On a rien besoin d'ajouter, ni d'enlever. Si j'aurais à faire ma propre création, je voudrais aussi avoir un message comme celle-ci, qui servirait à mettre en valeur les malheurs dans le monde.
 
 ## Références
 
