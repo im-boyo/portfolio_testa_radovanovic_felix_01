@@ -17,6 +17,8 @@ Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à compos
 
 Liste des composantes et techniques de l'oeuvre ou du dispositif (ex.: réalité virtuelle, projecteurs, câbles de soutien...)
 
+Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+
 ## Expérience vécue:
 -Description de votre expérien ce de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
