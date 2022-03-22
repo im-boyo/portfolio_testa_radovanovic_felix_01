@@ -41,4 +41,5 @@ J'aurai préféré s'il y avait moins de bruit à l'extérieur de l'oeuvre, incl
 
 ## Références
 https://bechardhudon.com/project/en-deca-2022/
+
 https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx
