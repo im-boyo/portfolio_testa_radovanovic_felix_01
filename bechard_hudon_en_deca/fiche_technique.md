@@ -20,7 +20,7 @@ C’est sur le vaste territoire compris entre Sept-Îles et Kegaska, sur la Côt
 
 ![croquis](medias/croquis.png)
 
-Les murs en bois sont adosées pour qu'ils se tiennent debout. Chaque mur a un transducteur qui émet des sons qui résonnent dans la petite pièce formée par les quatre murs. Au liew d'haut-parleurs normaux, les transducteurs font en sorte que les murs eux-mêmes vibrent avec le son. De cette façon, la personne à l'intérieur de l'oeuvre aura l'impression d'être immergée dans l'environnement crée par celle-ci.
+Les murs en bois sont adosées pour qu'ils se tiennent debout. Chaque mur a un transducteur qui émet des sons qui résonnent dans la petite pièce formée par les quatre murs. Au lieu d'haut-parleurs normaux, les transducteurs font en sorte que les murs eux-mêmes vibrent avec le son. De cette façon, la personne à l'intérieur de l'oeuvre aura l'impression d'être immergée dans l'environnement crée par celle-ci.
 
 Contreplaqué baltique, transducteurs, amplificateur, interface audio, détecteurs de mouvement, ordinateur, alimentation
 
