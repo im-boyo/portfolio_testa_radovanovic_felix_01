@@ -6,7 +6,7 @@
 
 Moebius
 
-Lieu de la mise en exposition
+Grand studio - Collège Montmorency
 
 Date de votre visite
 
