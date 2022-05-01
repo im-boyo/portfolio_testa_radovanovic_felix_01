@@ -1,1 +1,1 @@
-Ce dossier contient des photographies liés au projet
+Ce dossier contient des photographies liées au projet
