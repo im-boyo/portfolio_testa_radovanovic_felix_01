@@ -40,6 +40,3 @@ Je ne crois pas avoir quoique ce soit à changer. Je dirais que l'oeuvre a été
 
 ## Références
 https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
-
-## Photographies et croquis à intégrer
-croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
