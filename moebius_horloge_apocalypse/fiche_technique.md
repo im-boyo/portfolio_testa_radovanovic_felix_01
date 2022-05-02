@@ -32,7 +32,7 @@ Piedestal, Spotlight
 ## Expérience vécue:
 J'ai bien aimé l'exposition. Le fait de changer l'heure de l'horloge m'a fait me sentir comme un enfant, je m'amusais à bouger l'aiguille et voir les résultats de mes actions. J'ai aussi été surpris lorsque le téléphonne a commencé à sonner vers la fin. Me voir à l'écran après l'avoir déccroché a mis un sorte de poid sur mes épaules, comme si c'était de ma faute que la dernière scène, le bombardement, est arrivé. 
 
-![selfie](medias/photos/selfie.png)
+![selfie](medias/photos/selfie.jpg)
 
 Ce que j'ai le plus adoré était la 7e scène. Elle était si belle, j'ai aimé les couleurs et l'ambiance de casino de celle-ci, et la musique était incroyable. Je voudrais tant avoir le fichier pour l'écouter encore. Si j'avais à faire un projet, j'aimerais que ma trame sonore évoque un sentiment semblable au mien lorsque j'ai écouté leur trame sonore.
 
