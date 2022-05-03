@@ -1,1 +1,1 @@
-Ce dossier contient le compte-rendus et l'appréciation de la présentation Umitemieu.
+Ce dossier contient le compte-rendus et l'appréciation de la conférence Umitemieu.
