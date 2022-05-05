@@ -14,7 +14,6 @@ Samedi, le 5 mars, 2022
 _Impulsion nous fait vivre une expérience interactive de sons et de lumières. Elle présente une série de grandes bascules dont l’intensité lumineuse et les tonalités varient lorsque vous les mettez en mouvement. À partir de cet instrument urbain, participez à la création d’un environnement éphémère sans cesse renouvelé. Impulsion reprend des concepts du sérialisme, technique fondée sur la répétition d’éléments musicaux et leur variation, pour créer des zones d’intensité et de calme._
 
 Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
-30 bascules sont placées 
 
 Liste des composantes et techniques de l'oeuvre ou du dispositif (ex.: réalité virtuelle, projecteurs, câbles de soutien...)
 
