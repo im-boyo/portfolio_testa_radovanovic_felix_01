@@ -61,7 +61,7 @@ Maintenant, après l'expérimentation des oeuvres, mon ordre de préférence a c
 
 3- Jeu temporel - L'idée était intéressante, mais l'acteur qui a fait le doublage du personnage à l'écran aurait pu affiner la voix un peu plus, il y avait quelque chose qui me tracassait dans la manière qu'il a lu son script. Sinon, tout fonctionnait correctement et les questions étaient pertinentes en lien avec leur sujet.
 
-4- Chère Sasha - J'ai aimé le message de l'oeuvre, par contre l'audio était beaucoup trop faible donc on ne pouvait pas bien comprendre ce qu'ils disaient, et l'interactivité de l'oeuvre n'était pas assez clair. Je ne savait pas quand on devait utiliser un des objects dans la pièce, et ce n'était pas clair quel objet on devait utiliser.
+4- Chère Sasha - J'ai aimé le message de l'oeuvre, par contre l'audio était beaucoup trop faible donc on ne pouvait pas bien comprendre ce qu'ils disaient, et l'interactivité de l'oeuvre n'était pas assez clair. Je ne savais pas quand on devait utiliser un des objets dans la pièce, et ce n'était pas clair quel objet on devait utiliser.
 
 5- 3 minutes - J'ai seulement aimé la partie où on devait lancer les ballons sur les cibles. La partie où on était assis dans l'autre pièce ne m'a pas vraiment plu comme on ne faisait pas grand chose. Le message était bon, par contre. Il est bien de sensibiliser les autres aux problèmes liés avec l'intimidation.
 
