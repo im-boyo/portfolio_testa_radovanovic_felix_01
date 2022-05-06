@@ -3,6 +3,7 @@
 ## Lateral Office / CS Design / EGP Group
 
 ![ensemble](medias/images/ensemble_impulsion.jpg)
+(https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/2/impulsion-par-lateral-office-cs-design-en-collaboration-avec-egp-group/)
 
 2003
 
