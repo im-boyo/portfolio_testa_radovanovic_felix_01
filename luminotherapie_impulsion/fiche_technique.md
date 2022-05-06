@@ -33,18 +33,17 @@ Vu la quantité de personnes qui étaient à l'oeuvre à la fois, j'aurai préf�
 https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/2/impulsion-par-lateral-office-cs-design-en-collaboration-avec-egp-group/
 
 ## Photographies et croquis à intégrer
-Photographie de l'oeuvre ou du dispositif dans son ensemble
+![ensemble](medias/images/ensemble_impulsion.jpg)
 
 photographies des composantes de l'oeuvre
 
+
 photographies des éléments nécessaires à sa mise en espace
+![base](medias/images/base_impulsion.png)
 
-photographie du cartel ou du panneau explicatif
+![panneau](medias/images/panneau_impulsion.png)
 
-autoportrait (photo) de vous avec l'oeuvre
-
-![selfie](medias/images/20220305_1849251.mp4)
+![selfie](medias/images/selfie_impulsion.jpg)
 
 croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
 
-possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
