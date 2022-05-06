@@ -23,13 +23,13 @@ Chacune des 30 bascules sont mis en place à l'extérieur, alignées parallèlem
 ![croquis](medias/croquis/croquis_impulsion.png)
 
 ### Composantes et techniques de l'oeuvre ou du dispositif
-Aluminium, Plastique résistant au froid, Diffuseur lenticulaire, Projecteurs
+Aluminium, Plastique résistant au froid, Diffuseur lenticulaire
 
 ![bascule](medias/images/bascule_impulsion.png)
 (https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/2/impulsion-par-lateral-office-cs-design-en-collaboration-avec-egp-group/)
 
 ### Éléments nécessaires pour la mise en exposition
-Base en pyramide
+Base en pyramide, Projecteurs
 
 ![base](medias/images/base_impulsion.png)
 
