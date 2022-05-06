@@ -33,7 +33,7 @@ Vu la quantité de personnes qui étaient à l'oeuvre à la fois, j'aurai préf�
 https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/2/impulsion-par-lateral-office-cs-design-en-collaboration-avec-egp-group/
 
 ## Photographies et croquis à intégrer
-![ensemble](medias/images/ensemble_impulsion.jpg)
+![ensemble](medias/images/.jpg)
 
 photographies des composantes de l'oeuvre
 
