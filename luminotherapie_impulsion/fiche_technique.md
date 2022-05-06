@@ -26,6 +26,7 @@ Chacune des 30 bascules sont mis en place à l'extérieur, alignées parallèlem
 Aluminium, Plastique résistant au froid, Diffuseur lenticulaire, Projecteurs
 
 ![bascule](medias/images/bascule_impulsion.png)
+(https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/2/impulsion-par-lateral-office-cs-design-en-collaboration-avec-egp-group/)
 
 ### Éléments nécessaires pour la mise en exposition
 Base triangulaire
