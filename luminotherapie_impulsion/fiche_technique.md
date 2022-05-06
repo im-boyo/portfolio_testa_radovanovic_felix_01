@@ -40,7 +40,6 @@ Malhereusement, le jour que je suis allé visiter l'oeuvre, il y avait une longu
 
 J'ai aimé la simplicité et l'efficacité de l'oeuvre. J'ai  comment quelque chose de si petit peut contribuer à de si larges projections. Ça montre qu'on peut faire tellement de choses grandioses sans avoir nécessairement besoin d'une installation d'une taille semblable.
 
--Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 Vu la quantité de personnes qui étaient à l'oeuvre à la fois, j'aurai préféré qu'il aie une limite de temps qu'une personne peut utiliser la bascule à la fois. Peut-être j'aurais voulu attendre pour mon tour dans ce cas.
 
 ## Références
