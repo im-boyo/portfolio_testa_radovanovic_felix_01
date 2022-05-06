@@ -29,7 +29,7 @@ Aluminium, Plastique résistant au froid, Diffuseur lenticulaire
 (https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/2/impulsion-par-lateral-office-cs-design-en-collaboration-avec-egp-group/)
 
 ### Éléments nécessaires pour la mise en exposition
-Base en pyramide, Projecteurs
+Base pyramidale, Projecteurs
 
 ![base](medias/images/base_impulsion.png)
 
